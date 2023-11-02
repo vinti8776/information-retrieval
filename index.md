@@ -1,7 +1,25 @@
 ---
 layout: post
-title: Contents
+title: Content
 ---
+
+The graph mining course starts with describing fundamentals of graph theory to the users along with demonstrations using tiny examples (in python). Slowly it enters into algorithm designs based on various graph heuristics and network principles. The next level of the course explains how machine learning models interpret/represent graphs when provided as input in adjacency and what patterns/knowledge they can infer from them . The end part of the course focuses on explaining graph convolutional networks, a popular deep learning architecture used in multiple domains e.g. NLP, computer vision, biomedical and many more to solve prediction and classification tasks.
+- Introduction to graph mining
+- Cheatsheet on networkx
+- Graph mining: preliminaries
+- What are graphs? Different types?
+- Similarity graphs
+- Eigenvalues & eigenvectors 
+- Adjacency, diagonal, laplacian 
+- Laplacian eigenmap, dimensionality reduction, clustering
+- Pagerank, HITS, Spectral clustering
+- Link analysis
+- Betweenness centrality
+- Eigenvector centrality
+- degree
+- Neuman kernels
+
+<!--
 <span class="newthought">These notes</span> form a concise introductory course on probabilistic graphical models{% include sidenote.html id="note-pgm" note="Probabilistic graphical models are a subfield of machine learning that studies how to describe and reason about the world in terms of probabilities." %}.
 They are based on Stanford [CS228](https://cs228.stanford.edu/), and are written by [Volodymyr Kuleshov](http://www.stanford.edu/~kuleshov) and [Stefano Ermon](http://cs.stanford.edu/~ermon/), with the [help](https://github.com/ermongroup/cs228-notes/commits/master) of many students and course staff.
 {% include marginnote.html id='mn-construction' note='The notes are still **under construction**! Although we have written up most of the material, you will probably find several typos. If you do, please let us know, or submit a pull request with your fixes to our [GitHub repository](https://github.com/ermongroup/cs228-notes).'%}
@@ -51,4 +69,4 @@ This course starts by introducing probabilistic graphical models from the very b
 
 1. [The variational autoencoder](extras/vae): Deep generative models. The reparametrization trick. Learning latent visual representations.
 
-2. [List of further readings](extras/readings): Structured support vector machines. Bayesian non-parametrics.
+2. [List of further readings](extras/readings): Structured support vector machines. Bayesian non-parametrics. -->
