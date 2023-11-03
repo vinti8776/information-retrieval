@@ -4,24 +4,24 @@ title: Content
 ---
 
 The graph mining course starts with describing fundamentals of graph theory to the users along with demonstrations using tiny examples (in python). Slowly it enters into algorithm designs based on various graph heuristics and network principles. The next level of the course explains how machine learning models interpret/represent graphs when provided as input in adjacency and what patterns/knowledge they can infer from them . The end part of the course focuses on explaining [graph convolutional networks](https://tkipf.github.io/graph-convolutional-networks/), a popular deep learning architecture used in multiple domains e.g. NLP, computer vision, biomedical and many more to solve prediction and classification tasks.
-- Introduction to graph mining
-- Cheatsheet on networkx
-- Graph mining: preliminaries
+- Introduction to graph mining   [Slides](https://vinti8776.github.io/graph-mining/) [Code](https://vinti8776.github.io/graph-mining/) [Reference](https://vinti8776.github.io/graph-mining/)
+- Cheatsheet on networkx   [Slides](https://vinti8776.github.io/graph-mining/) [Code](https://vinti8776.github.io/graph-mining/) [Reference](https://vinti8776.github.io/graph-mining/)
+- Graph mining: preliminaries  [Slides](https://vinti8776.github.io/graph-mining/) [Code](https://vinti8776.github.io/graph-mining/) [Reference](https://vinti8776.github.io/graph-mining/)
    - What are graphs? Different types?
    - Similarity graphs
    - Eigenvalues & eigenvectors
    - Adjacency, diagonal, laplacian
-- What are graphs? Different types?
-- Similarity graphs
-- Eigenvalues & eigenvectors 
-- Adjacency, diagonal, laplacian 
-- Laplacian eigenmap, dimensionality reduction, clustering
-- Pagerank, HITS, Spectral clustering
-- Link analysis
-- Betweenness centrality
-- Eigenvector centrality
-- degree
-- Neuman kernels
+- What are graphs? Different types?  [Slides](https://vinti8776.github.io/graph-mining/) [Code](https://vinti8776.github.io/graph-mining/) [Reference](https://vinti8776.github.io/graph-mining/)
+- Similarity graphs  [Slides](https://vinti8776.github.io/graph-mining/) [Code](https://vinti8776.github.io/graph-mining/) [Reference](https://vinti8776.github.io/graph-mining/)
+- Eigenvalues & eigenvectors   [Slides](https://vinti8776.github.io/graph-mining/) [Code](https://vinti8776.github.io/graph-mining/) [Reference](https://vinti8776.github.io/graph-mining/)
+- Adjacency, diagonal, laplacian   [Slides](https://vinti8776.github.io/graph-mining/) [Code](https://vinti8776.github.io/graph-mining/) [Reference](https://vinti8776.github.io/graph-mining/)
+- Laplacian eigenmap, dimensionality reduction, clustering  [Slides](https://vinti8776.github.io/graph-mining/) [Code](https://vinti8776.github.io/graph-mining/) [Reference](https://vinti8776.github.io/graph-mining/)
+- Pagerank, HITS, Spectral clustering  [Slides](https://vinti8776.github.io/graph-mining/) [Code](https://vinti8776.github.io/graph-mining/) [Reference](https://vinti8776.github.io/graph-mining/)
+- Link analysis  [Slides](https://vinti8776.github.io/graph-mining/) [Code](https://vinti8776.github.io/graph-mining/) [Reference](https://vinti8776.github.io/graph-mining/)
+- Betweenness centrality  [Slides](https://vinti8776.github.io/graph-mining/) [Code](https://vinti8776.github.io/graph-mining/) [Reference](https://vinti8776.github.io/graph-mining/)
+- Eigenvector centrality  [Slides](https://vinti8776.github.io/graph-mining/) [Code](https://vinti8776.github.io/graph-mining/) [Reference](https://vinti8776.github.io/graph-mining/)
+- degree  [Slides](https://vinti8776.github.io/graph-mining/) [Code](https://vinti8776.github.io/graph-mining/) [Reference](https://vinti8776.github.io/graph-mining/)
+- Neuman kernels  [Slides](https://vinti8776.github.io/graph-mining/) [Code](https://vinti8776.github.io/graph-mining/) [Reference](https://vinti8776.github.io/graph-mining/)
 
 <!--
 <span class="newthought">These notes</span> form a concise introductory course on probabilistic graphical models{% include sidenote.html id="note-pgm" note="Probabilistic graphical models are a subfield of machine learning that studies how to describe and reason about the world in terms of probabilities." %}.
