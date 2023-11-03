@@ -3,10 +3,14 @@ layout: post
 title: Content
 ---
 
-The graph mining course starts with describing fundamentals of graph theory to the users along with demonstrations using tiny examples (in python). Slowly it enters into algorithm designs based on various graph heuristics and network principles. The next level of the course explains how machine learning models interpret/represent graphs when provided as input in adjacency and what patterns/knowledge they can infer from them . The end part of the course focuses on explaining graph convolutional networks, a popular deep learning architecture used in multiple domains e.g. NLP, computer vision, biomedical and many more to solve prediction and classification tasks.
+The graph mining course starts with describing fundamentals of graph theory to the users along with demonstrations using tiny examples (in python). Slowly it enters into algorithm designs based on various graph heuristics and network principles. The next level of the course explains how machine learning models interpret/represent graphs when provided as input in adjacency and what patterns/knowledge they can infer from them . The end part of the course focuses on explaining [graph convolutional networks](https://tkipf.github.io/graph-convolutional-networks/), a popular deep learning architecture used in multiple domains e.g. NLP, computer vision, biomedical and many more to solve prediction and classification tasks.
 - Introduction to graph mining
 - Cheatsheet on networkx
 - Graph mining: preliminaries
+   - What are graphs? Different types?
+   - Similarity graphs
+   - Eigenvalues & eigenvectors
+   - Adjacency, diagonal, laplacian
 - What are graphs? Different types?
 - Similarity graphs
 - Eigenvalues & eigenvectors 
